@@ -1,0 +1,26 @@
+.auteur table,td,th{
+    border: 1px solid brown;
+    border-radius: 4px;
+
+}
+.auteur table{
+    border-collapse:collapse;
+    width: 80%;
+    margin: 4% 10%;
+    border-right: 10px;
+}
+.auteur{
+    width: 50%;
+    background-color: whitesmoke;
+    border: 1px black;
+    border-radius: 4px;
+}
+.conteneur{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+    border-right: 20;
+}
